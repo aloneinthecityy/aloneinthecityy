@@ -5,7 +5,7 @@
 
 
 
-![Snake animation](https://github.com/aloneinthecityy)
+![Snake animation](https://github.com/aloneinthecityy/aloneinthecityy/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
