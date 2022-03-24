@@ -11,12 +11,11 @@
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height=250" src="https://66.media.tumblr.com/a00cc49f7c02b11f7178e6e4cbbd6814/tumblr_n2puczFoqe1ruoznzo1_500.gif">
   </div>
  
  <br>
  
- <div align="center">
- <img height=250" src="https://66.media.tumblr.com/a00cc49f7c02b11f7178e6e4cbbd6814/tumblr_n2puczFoqe1ruoznzo1_500.gif">
- </div>
+ 
 
  
