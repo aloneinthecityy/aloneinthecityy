@@ -13,8 +13,6 @@
   <br>
  <br>
  
-<div align="center"> 
    <!--  <img height="440" src="https://66.media.tumblr.com/a00cc49f7c02b11f7178e6e4cbbd6814/tumblr_n2puczFoqe1ruoznzo1_500.gif">   !-->
  <img height="140" src="https://66.media.tumblr.com/0ba62d9f16684ebbcc4a49090842a196/tumblr_o1wlfpcNHy1so9b4uo1_500.gif">
-</div>
  
