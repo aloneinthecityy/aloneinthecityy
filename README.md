@@ -4,7 +4,7 @@
 
 <!-- welcome gif -->
 <div style="text-align: center;">
-    <img src="./assets/images/welcome2.gif" alt="welcome gif" width="100%" style="border-radius: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/aloneinthecityy/aloneinthecityy@main/assets/images/welcome2.gif" alt="welcome gif" width="100%" style="border-radius: 16px;">
 </div>
 
 <br>
